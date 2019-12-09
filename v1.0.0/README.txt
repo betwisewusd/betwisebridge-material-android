@@ -1,14 +1,16 @@
-�����ļ���
+包含文件：
 
 1.aar.rar
-    ��ע��������������BetWise��Ҫ�Ŀ��ļ���
+    备注：包括两个接入BetWise需要的库文件。
 
 2.betwise-demo.apk
-    ��ע���û���ʹ�ø�demo���鼯����BetWise���Ч����
+    备注：用户可使用该demo体验集成了BetWise后的效果。
 
-3.BetWise�����ĵ���Android��.pdf��
-    ��ע����ϸ�����˽���BetWise�Ĳ��裬�����ĵ��ڵĲ���ɿ��ټ���BetWise����Ŀ�У������򵥣�����Ҫ�û����ջ�����AndroidӦ�ÿ���֪ʶ��
+3.BetWise接入文档（Android）.pdf；
+    备注：详细介绍了接入BetWise的步骤，按照文档内的步骤可快速集成BetWise到项目中，操作简单，但需要用户掌握基本的Android应用开发知识。
 
 4.README.txt
 
-˵�����ļ�����ȱʧ������ϵ���ǡ�
+说明：如需技术支持或其他问题，请联系我们: 
+    E-mail: huquan.wang@waykichainhk.com
+    Wechat: wxid_lhgjgngdbrwi22
